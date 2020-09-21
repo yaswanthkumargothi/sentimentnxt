@@ -1,2 +1,2 @@
-# streamlitnlpapp
-streamlitapp for sentiment and next word prediction
+# streamlit nlp app
+streamlit app for sentiment and next word prediction
